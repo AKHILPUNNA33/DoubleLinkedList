@@ -1,5 +1,5 @@
-This program is to use data sturucture that is double linked list
-double linked list has following operations
+This program is to use data sturucture that is double linked list.
+Double linked list has following operations
 1.Create
 2.Insert
 3.Delete
